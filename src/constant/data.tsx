@@ -2,7 +2,7 @@ type Data = {
   src: string;
 };
 export const data: Data[] = [
-  { src: "https://images.unsplash.com/photo-1684072108336-40bb8228888e" },
+  { src: "src/photos/chess_logo.png" },
   { src: "https://images.unsplash.com/photo-1682685796186-1bb4a5655653" },
   { src: "https://images.unsplash.com/photo-1683965789236-5e83c8adb5cf" },
   { src: "https://images.unsplash.com/photo-1683914791767-764d03299719" },
