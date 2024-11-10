@@ -14,7 +14,7 @@ function App() {
       </p>
       <div className="flexbox">
         {data.map((item, index) => (
-          <LazyImage src={item.src} key={index} />
+          <LazyImage src={item.src} caption={item.caption} description={item.description} key={index} />
         ))}
       </div>
     </div>
