@@ -1,4 +1,3 @@
-import React from "react";
 import LazyImage from "./LazyImage";
 import { data } from "../constant/data";  // Import your data array here
 import "./LazyImage.css";
