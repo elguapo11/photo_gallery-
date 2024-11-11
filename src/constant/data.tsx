@@ -9,7 +9,11 @@ export const data: Data[] = [
     caption: 'Chess Logo',
     description: 'An elegant logo representing the game of chess.',
   },
-  { src: 'https://images.unsplash.com/photo-1682685796186-1bb4a5655653' },
+  {
+    src: 'src/photos/selfie_fred_again.jpg',
+    caption: 'Fred Again stopped by',
+    description: 'Fred was the first celebrity to grace our club',
+  },
   { src: 'https://images.unsplash.com/photo-1683965789236-5e83c8adb5cf' },
   { src: 'https://images.unsplash.com/photo-1683914791767-764d03299719' },
   { src: 'https://images.unsplash.com/photo-1684093024940-7847c7af3faa' },
