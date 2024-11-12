@@ -11,7 +11,7 @@ export const data: Data[] = [
   },
   {
     src: 'src/photos/selfie_fred_again.jpg',
-    caption: 'Fred Again stopped by',
+    caption: 'Fred Again plays chess',
     description: 'Fred was the first celebrity to grace our club',
   },
   {
@@ -31,12 +31,12 @@ export const data: Data[] = [
   },
   {
     src: 'src/photos/selfie_fred_again.jpg',
-    caption: 'Fred Again stopped by',
+    caption: 'Fred Again plays chess',
     description: 'Fred was the first celebrity to grace our club',
   },
   {
     src: 'src/photos/selfie_fred_again.jpg',
-    caption: 'Fred Again stopped by',
+    caption: 'Fred Again plays chess',
     description: 'Fred was the first celebrity to grace our club',
   },
 
