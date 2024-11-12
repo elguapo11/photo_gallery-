@@ -14,7 +14,32 @@ export const data: Data[] = [
     caption: 'Fred Again stopped by',
     description: 'Fred was the first celebrity to grace our club',
   },
-  { src: 'https://images.unsplash.com/photo-1683965789236-5e83c8adb5cf' },
+  {
+    src: 'src/photos/chess_club_tf_brewery.jpeg',
+    caption: 'What a typical Monday night looks like',
+    description: 'Here we see Sam getting wrecked',
+  },
+  {
+    src: 'src/photos/chess_club_tf_brewery.jpeg',
+    caption: 'What a typical Monday night looks like',
+    description: 'Here we see Sam getting wrecked',
+  },
+  {
+    src: 'src/photos/chess_club_tf_brewery.jpeg',
+    caption: 'What a typical Monday night looks like',
+    description: 'Here we see Sam getting wrecked',
+  },
+  {
+    src: 'src/photos/selfie_fred_again.jpg',
+    caption: 'Fred Again stopped by',
+    description: 'Fred was the first celebrity to grace our club',
+  },
+  {
+    src: 'src/photos/selfie_fred_again.jpg',
+    caption: 'Fred Again stopped by',
+    description: 'Fred was the first celebrity to grace our club',
+  },
+
   { src: 'https://images.unsplash.com/photo-1683914791767-764d03299719' },
   { src: 'https://images.unsplash.com/photo-1684093024940-7847c7af3faa' },
   { src: 'https://images.unsplash.com/photo-1684090110679-2f3dde062b9e' },
