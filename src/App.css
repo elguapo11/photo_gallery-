@@ -9,7 +9,6 @@ body {
   width: 100%;
 }
 
-
 .container {
   width: 100%;
   padding-right: 15px;
@@ -78,6 +77,14 @@ body {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.masthead {
+  background-image: url('src/photos/SLCC_Logo_black_background.png');
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  width: 100%;
 }
 
 .App-header {

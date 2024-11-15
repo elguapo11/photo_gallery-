@@ -6,9 +6,7 @@ import { data } from "./constant/data";
 function App() {
   return (
     <div data-test-id="component-app" className="container">
-      <h1>
-       SLC Chess Club
-      </h1>
+      <div className="masthead"></div>
       <p>
         working site
       </p>
